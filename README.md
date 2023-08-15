@@ -1,12 +1,12 @@
 # CI-CD-Jenkins
-Set up a CICD Pipeline using Jenkinsfile and Docker on AWS EC2
+#Set up a CICD Pipeline using Jenkinsfile and Docker on AWS EC2
 ![image](https://github.com/MyDevOps-Venky/CiCd-Jenkins_Project1/assets/128009454/dd8e0268-cbed-4486-8817-db17df05aff3)
 
-CI/CD is an essential part of DevOps and any modern software development practice. A purpose-built CI/CD platform can maximize development time by improving an organization’s productivity, increasing efficiency, and streamlining workflows through built-in automation, testing, and collaboration.
+#CI/CD is an essential part of DevOps and any modern software development practice. A purpose-built CI/CD platform can maximize development time by improving an organization’s productivity, increasing efficiency, and streamlining workflows through built-in automation, testing, and collaboration.
 
-Key Concepts to be Applied here:-
+#Key Concepts to be Applied here:-
 
-What is Continuous Integration:
+#What is Continuous Integration:		
 Continuous Integration is a foundational practice in modern software development and is closely associated with the broader DevOps philosophy. It contributes to faster development cycles, improved code quality, and more reliable software releases by promoting a culture of automation, collaboration, and immediate feedback.
 
 What is Continuous Delivery/Deployment:
