@@ -1,4 +1,4 @@
-# CI-CD-Jenkins
+# CI-CD-Jenkins                                                                 ************ GoToCode Option, you see te steps******************
 **Set up a CICD Pipeline using Jenkinsfile and Docker on AWS EC2**
 ![image](https://github.com/MyDevOps-Venky/CiCd-Jenkins_Project1/assets/128009454/dd8e0268-cbed-4486-8817-db17df05aff3)
 
@@ -16,7 +16,7 @@ Accurate description of Continuous Delivery and the role of Jenkins in automatin
 
 **What is Continuous Testing:**
 
-Continuous Testing ensures ongoing assessment of changes and maintains the quality of the application throughout the development process. By integrating testing into the pipeline, especially during the execution of the Docker image, potential issues are detected early in the development cycle, allowing for prompt remediation and higher-quality software delivery. This approach aligns well with the DevOps philosophy, where collaboration, automation, and feedback are key to achieving faster, more reliable, and high-quality software releases.
+Continuous Testing ensures ongoing assessment of changes and maintains the quality of the application throughout the development process. By integrating testing into the pipeline, especially during the execution of the Docker image, potential issues are detected early in the development cycle, allowing for prompt remediation and higher-quality software delivery. This approach aligns well with the DevOps philosophy, where collaboration, automation, and feedback are key to achieving faster, more reliable, and high-quality software releases. 
 
 **Infrastructure as Code (IaC):**
 
